@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Iesus M Franco
+## Hi Friend! I'm Iesus M Franco
  <div>
   <a href="https://github.com/iesusdeveloper">
   <img height="160em" color="green" src="https://github-readme-stats.vercel.app/api?username=iesusdeveloper&show_icons=true&count_private=true"/>
